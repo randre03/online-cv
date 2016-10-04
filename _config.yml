@@ -4,7 +4,7 @@ baseurl: '/online-cv' #change it according to your repository name
 
 
 # Enable one of these styles by removing #
-#style: styles-2
+style: styles-2
 #style: styles-3
 #style: styles-4
 #style: styles-5
@@ -15,13 +15,13 @@ baseurl: '/online-cv' #change it according to your repository name
 
 #Profile information
 name: Roger E Randall
-tagline: eat, sleep, drink, λ!
+tagline: eat, sleep, drink...λ
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: roger@rogerrandall.com
 phone: 214 864 8388
-website:  https://randre03.github.io/online-cv/
+website:  https://randre03.github.io/
 linkedin: rogererandall
 github: randre03
 twitter: '@dev_randall'
