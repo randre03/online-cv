@@ -21,7 +21,7 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: roger@rogerrandall.com
 phone: 214 864 8388
-website:  https://randre03.github.io/
+#website: rogerrandall.com
 linkedin: rogererandall
 github: randre03
-twitter: '@dev_randall'
+twitter: '@randall_dev'
